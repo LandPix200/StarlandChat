@@ -1,5 +1,5 @@
-# Iris
-
+# Starland Chat
+## Un fork de Iris 
 A Interactive ChatGPT like voice bot powered by GPT-3 built in Flutter!
 
 ## Getting Started
